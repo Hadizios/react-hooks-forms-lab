@@ -17,7 +17,7 @@ function Filter({ onCategoryChange, onSearchChange, search }) {
         <option value="All">Filter by category</option>
         <option value="Produce">Produce</option>
         <option value="Dairy">Dairy</option>
-        <option value="Dessert">Dessert</option>
+        <option value="Dessert">Dessert</option>asdsa
       </select>
     </div>
   );
